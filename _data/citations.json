@@ -1,0 +1,50 @@
+{
+  "last_updated": "2026-01-23 18:13:33 UTC",
+  "total_citations": 1358,
+  "h_index": 15,
+  "i10_index": 18,
+  "papers": {
+    "RealSR": {
+      "title": "Real-world super-resolution via kernel estimation and noise injection",
+      "citations": 435,
+      "year": "2020",
+      "url": "iL2j_yAAAAAJ:d1gkVwhDpl0C"
+    },
+    "ColorFormer": {
+      "title": "Supplementary Material to “ColorFormer: Image Colorization via Color Memory assisted Hybrid-attention Transformer”",
+      "citations": 0,
+      "year": "N/A",
+      "url": "iL2j_yAAAAAJ:ufrVoPGSRksC"
+    },
+    "Sonic": {
+      "title": "Sonic: Shifting focus to global audio perception in portrait animation",
+      "citations": 48,
+      "year": "2025",
+      "url": "iL2j_yAAAAAJ:8k81kl-MbHgC"
+    },
+    "Spectrum-to-Kernel": {
+      "title": "Spectrum-to-kernel translation for accurate blind image super-resolution",
+      "citations": 34,
+      "year": "2021",
+      "url": "iL2j_yAAAAAJ:Tyk-4Ss8FVUC"
+    },
+    "UniM-OV3D": {
+      "title": "Unim-ov3d: Uni-modality open-vocabulary 3d scene understanding with fine-grained feature representation",
+      "citations": 17,
+      "year": "2024",
+      "url": "iL2j_yAAAAAJ:UebtZRa9Y70C"
+    },
+    "RealTalk": {
+      "title": "Realtalk: Real-time and realistic audio-driven face generation with 3d facial prior-guided identity alignment network",
+      "citations": 12,
+      "year": "2024",
+      "url": "iL2j_yAAAAAJ:hqOjcs7Dif8C"
+    },
+    "FCA": {
+      "title": "Frequency consistent adaptation for real world super resolution",
+      "citations": 12,
+      "year": "2021",
+      "url": "iL2j_yAAAAAJ:IjCSPb-OGe4C"
+    }
+  }
+}
